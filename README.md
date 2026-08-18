@@ -1,5 +1,7 @@
 # ✈️ Flight Operations & Delay Performance Analytics Dashboard
 
+![Screenshot of the DASHBOARD](Flights_Dataset_DASHBOARD.png)
+
 An end-to-end data analytics project featuring raw flight data processing, data cleaning & transformation, dynamic KPI Scorecard modeling, and an interactive executive dashboard.
 
 ---
